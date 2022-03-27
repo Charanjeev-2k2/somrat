@@ -77,24 +77,29 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
-icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
-
-[[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/Charanjeev-2k2"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://www.linkedin.com/in/keenlearner/"
+
+[[params.social]]
+icon = "fab fa-twitter"
+link = "https://twitter.com/CharanjeevKaur1"
+
+[[params.social]]
+icon = "fab fa-facebook-f"
+link = ""
+
+
+[[params.social]]
+icon = "fab fa-instagram"
+link = ""
+
+
+
+
 
 
 ################################### English language #####################################

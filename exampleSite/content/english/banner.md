@@ -1,14 +1,14 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm Charanjeev Kaur"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Charanjeev"
+last_name : "Kaur"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Student"
+- "Data Science Enthusiast"
+- "Keen Learner"
 
 # slider background image loop
 slider_images:
@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HIRE ME"
+  label : "Connect"
   link : "#contact"
 
 
