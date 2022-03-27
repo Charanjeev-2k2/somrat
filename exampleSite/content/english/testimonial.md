@@ -1,11 +1,12 @@
----
-title : "TESTIMONIALS"
-testimonial_slider:
+<!-- ---
+
+# title : "TESTIMONIALS"
+# testimonial_slider:
 # slider item loop
-- name : "Micheal Clark"
-  image : "images/clients/client1.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+# - name : "Micheal Clark"
+#   image : "images/clients/client1.jpg"
+#   designation : "CEO, RANDOM COMPANY"
+#   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
             
 # slider item loop
 - name : "Peter Parker"
@@ -23,4 +24,4 @@ testimonial_slider:
 custom_class: "" 
 custom_attributes: "" 
 custom_css: ""
----
+--- -->
