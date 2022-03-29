@@ -1,4 +1,4 @@
----
+<!-- ---
 
 #title : "SERVICES"
 #service_list:
@@ -24,11 +24,11 @@
   
 # service item loop
 #- name : "Mobile App Development"
- # image : "images/icons/mobile-app.png"
+ # image : "images/icons/mobile-app.png" -->
 
 
 # custom style
-custom_class: "" 
-custom_attributes: "" 
-custom_css: ""
----
+ custom_class: "" 
+ custom_attributes: "" 
+ custom_css: ""
+ ---

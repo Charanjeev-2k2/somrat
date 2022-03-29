@@ -1,8 +1,8 @@
 ---
 title : "I'm Charanjeev Kaur"
 # full screen navigation
-first_name : "Charanjeev"
-last_name : "Kaur"
+first_name : "Kaur"
+last_name : "Charanjeev"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
