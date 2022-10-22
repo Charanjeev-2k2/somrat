@@ -13,44 +13,67 @@ experience:
   title : "EXPERIENCE"
   experience_list:
   # experience item loop
+    - name : "SWE Intern"
+      company : "Myntra Designs Pvt. Ltd."
+      duration : "<br>Jun-Jul 2022"
+      content : "Tech: React, Redux"
+    # experience item loop
+    - name : "ML Intern"
+      company : "Raahee Mental Health"
+      duration : "<br>Jan-Mar 2022"
+      content : ""
+    
+    # experience item loop
     - name : "Networks Lead"
       company : "Women Who Code"
       duration : "<br>Jan 2022-Present"
       content : ""
 
-  # experience item loop
-    - name : "ML Intern"
-      company : "Raahee Mental Health"
-      duration : "<br>Jan-Mar 2022"
-      content : ""
-   # experience item loop
-    - name : "Intern"
-      company : "CBRE South Asia Pvt. Ltd. (A&T ILS Team)"
-      duration : "<br>July 2019"
-      content : ""
+      enable : true
+      title : "EXPERIENCE AND VOLUNTEERING"
+      experience_list:
+      # experience item loop
+        - name : "SWE Intern"
+          company : "Myntra Designs Pvt. Ltd."
+          duration : "<br>Jun 2022-Jul 2022"
+          content : "Tech: React, Redux"
+        # experience item loop
+        - name : "ML Intern"
+          company : "Raahee Mental Health"
+          duration : "<br>Jan-Mar 2022"
+          content : "Tech: Python, huggingface"
+        
+        # experience item loop
+        - name : "Networks Lead"
+          company : "Women Who Code"
+          duration : "<br>Jan 2022-Present"
+          content : ""
 
-    
+       # experience item loop
+        - name : "Data Science Mentor"
+          company : "UAceIt - Winter of Mentorship"
+          duration : ""
+          content : ""
+
+        
 
 ############################### Skill #################################
 skill:
   enable : true
   title : "SKILL"
   skill_list:
-    # skill item loop
-    - name : "C++"
-      percentage : "98%"
       
     # skill item loop
-    - name : "Java"
-      percentage : "85%"
+    - name : "Design and Analysis of Algorithms"
+      percentage : "95%"
          
     # skill item loop
-    - name : "Teamwork and Leadership"
-      percentage : "98%"
-
+    - name : "Data Science/Machine Learning"
+      percentage : "95%"
+    
     # skill item loop
-    - name : "Data Science"
-      percentage : "70%"
+    - name : "Web Development"
+      percentage : "85%"
 
 
 # custom style
